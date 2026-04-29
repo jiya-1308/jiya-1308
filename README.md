@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jiya-1308
 - 👀 I’m interested in software testing 
 - 🌱 I’m currently learning Testing 
-- 📫 How to reach me on mail 835jiya@gmail.com
+- 📫 How to reach me on mail jiyapatel6269@gmail.com
